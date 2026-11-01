@@ -12,5 +12,8 @@ Working templates I use across product, project and Agile delivery. Copy them, a
 | [Release readiness checklist](release-readiness-checklist.md) | Making go/no-go decisions on evidence |
 | [Sprint planning and retrospective](sprint-planning-and-retrospective.md) | Running a sprint from goal to review |
 | [Service transition checklist](service-transition-checklist.md) | Moving a new service into live support |
+| [RACI and stakeholder plan](raci-and-stakeholder-plan.md) | Agreeing who decides, who does and who needs to know |
+| [Status report](status-report.md) | Reporting progress, risks and decisions to sponsors |
+| [Post-implementation review](post-implementation-review.md) | Checking outcomes and capturing lessons after go-live |
 
 Text in angle brackets, such as `<product name>`, is a placeholder. Example figures inside templates are illustrative only and are not results.

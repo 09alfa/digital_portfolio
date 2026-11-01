@@ -31,7 +31,7 @@ What problem are we solving, for whom, and how do we know it is real? Link to di
 |---|---|---|
 | | | |
 
-State why anything is deferred or excluded. For products with more than one deployment model (hosted, customer-premises, customer-owned cloud), show scope per model.
+State why anything is deferred or excluded. If the product is offered in more than one form (for example hosted and on customer premises), show scope for each.
 
 ## 5. Requirements
 
@@ -45,7 +45,7 @@ Availability, performance, security, data residency, compliance, supportability,
 
 ## 7. Commercial model
 
-Pricing approach, packaging and tiers, and how cost to serve changes by deployment model.
+Pricing approach, packaging and tiers, and how cost to serve changes by customer segment or hosting option.
 
 ## 8. Dependencies and risks
 

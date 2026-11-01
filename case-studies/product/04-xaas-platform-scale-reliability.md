@@ -1,36 +1,43 @@
 # P04 | XaaS Platform Scale and Reliability
 
+> Doubled subscribers on a shared platform from 5m to over 10m while holding 99.9% availability and meeting every SLA.
+
 | | |
 |---|---|
 | **Organisation** | Listed West African IT services group |
 | **My role** | Senior Product Manager |
+| **Period** | Within 2015 to 2023 |
 | **Platform** | Shared XaaS platform hosting a mobile financial service and nine microfinance banks |
-| **Focus** | Platform growth, availability, service governance, product portfolio |
+| **Relevant for** | Senior Product Manager, Platform Product Manager, Service Delivery Manager, IT Manager |
 
 ## Context
 
-The group ran a shared platform that hosted customer-facing financial services for several institutions. As usage grew, the platform had to scale without putting availability, or the institutions' customers, at risk.
+The platform hosted customer-facing financial services for several institutions. Growth was welcome, but any outage would hit those institutions' own customers.
+
+## Challenge
+
+Scale the platform and its customer base without putting availability or service commitments at risk.
 
 ## What I did
 
-- **Grew the hosted customer base.** Won nine microfinance banks for a white-labelled core banking product through demonstrations, competitor analysis and feature comparisons on strategic deals.
+- **Grew the hosted customer base.** Won nine microfinance banks for a white-labelled core banking product through demonstrations, competitor analysis and feature comparisons.
 - **Governed capacity and change.** Put capacity planning, change control and incident governance around the platform, with ManageEngine monitoring for early warning.
-- **Ran service to SLA.** Translated business requirements into Agile workstreams and governed service uptime against contractual SLAs.
-- **Co-led five product and platform builds:** a cooperative society platform, a small business ERP, the XaaS platform itself, a bills payment product and a mobile financial platform. For each, set roadmap, go-to-market and pricing.
+- **Ran service to SLA.** Turned business requirements into Agile workstreams and governed uptime against contractual SLAs.
+- **Co-led five product and platform builds:** a cooperative society platform, a small business ERP, the XaaS platform, a bills payment product and a mobile financial platform, setting roadmap, go-to-market and pricing for each.
 - **Re-platformed SaaS products** with environment, release and CI/CD governance in place, keeping service continuity for hosted and customer-premises deployments.
 
 ## Results
 
-- Platform subscribers doubled from **5m to over 10m**
+- Subscribers doubled from **5m to over 10m**
 - **99.9%** availability across IaaS and SaaS platform services
-- SLA commitments exceeded with **zero service credit penalties**
-- **9** microfinance banks onboarded to a white-labelled core banking product
+- SLAs exceeded with **zero service credit penalties**
+- **9** microfinance banks onboarded
 - **5** products and platforms taken to market
 
-## What this shows
+## Skills demonstrated
 
-- Running a platform product at scale, not just launching it
-- Balancing growth against reliability and customer commitments
-- Monitoring, change and incident governance as product responsibilities
+Platform product management; running services at scale; capacity, change and incident governance; SLA management; product portfolio leadership.
 
-**Tools:** ManageEngine, Jira, Power BI
+## Methods and tools
+
+ManageEngine, Jira, Power BI; ITIL-aligned service management, Agile delivery.

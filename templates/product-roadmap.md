@@ -14,7 +14,7 @@ An outcome-based roadmap. Items move between horizons as evidence changes; dates
 |---|---|---|---|
 | `<theme, e.g. onboarding>` | `<outcome and initiative>` | | |
 | `<theme, e.g. reliability>` | | | |
-| `<theme, e.g. new deployment model>` | | | |
+| `<theme, e.g. new market segment>` | | | |
 
 ## How items get here
 
